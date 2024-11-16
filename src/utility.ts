@@ -88,7 +88,7 @@ const TEST_DATA : Array<TransactionEntry> = [
 ];
 
 // Uncomment line 91 and comment line 93 while developing the application to test the UI.
-// const TRANSACTION_DATA : Array<TransactionEntry> = TEST_DATA;
+ //const TRANSACTION_DATA : Array<TransactionEntry> = TEST_DATA;
 
 const TRANSACTION_DATA : Array<TransactionEntry> = [];
 
